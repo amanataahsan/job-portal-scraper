@@ -1,3 +1,6 @@
 *.csv
 ./key
 .DS_Store
+*.log
+*.json
+jobseeker_id/.scrapy/

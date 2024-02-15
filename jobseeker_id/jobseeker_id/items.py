@@ -14,3 +14,5 @@ class JobseekerIdItem(scrapy.Item):
     job_desc = scrapy.Field()
     job_requirement = scrapy.Field()
     job_name = scrapy.Field()
+    job_title = scrapy.Field()
+    job_data = scrapy.Field()
